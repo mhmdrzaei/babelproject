@@ -20,3 +20,4 @@ var myClass = /*#__PURE__*/function () {
   }]);
   return myClass;
 }();
+var myClassName = "Hello there";
