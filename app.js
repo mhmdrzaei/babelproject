@@ -13,3 +13,6 @@ class myClass {
 }
 
 const myClassName = "Hello there";
+const calculate = (a, b) => {
+  return a + b;
+};

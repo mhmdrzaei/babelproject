@@ -21,3 +21,6 @@ var myClass = /*#__PURE__*/function () {
   return myClass;
 }();
 var myClassName = "Hello there";
+var calculate = function calculate(a, b) {
+  return a + b;
+};
